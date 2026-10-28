@@ -1,0 +1,232 @@
+{
+  "joueurs": {
+    "Adrien": {
+      "poste": "Link",
+      "yoyo": [
+        {
+          "id": "mvsmj27q",
+          "version": "IR1",
+          "distance": 1520,
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "Alex": {
+      "poste": "Link"
+    },
+    "Aloïs": {
+      "poste": "Middle",
+      "yoyo": [
+        {
+          "id": "mvsmmc18",
+          "version": "IR1",
+          "distance": 2160,
+          "date": "2026-10-26"
+        }
+      ],
+      "passe": [
+        {
+          "id": "mvsfuca8",
+          "date": "2026-10-26",
+          "r10": 20,
+          "r15": 20,
+          "r20": 18
+        }
+      ]
+    },
+    "Ambre": {
+      "poste": "Ailier"
+    },
+    "Anaëlle": {
+      "poste": "Link"
+    },
+    "Axelle": {
+      "poste": "Link",
+      "yoyo": [
+        {
+          "id": "mvsmd008",
+          "version": "IR1",
+          "distance": 560,
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "Baptiste": {
+      "poste": "Link"
+    },
+    "Chloé": {
+      "poste": "Ailier"
+    },
+    "Clara": {
+      "poste": "Ailier"
+    },
+    "Elsa": {
+      "poste": "Ailier",
+      "yoyo": [
+        {
+          "id": "mvsmehbi",
+          "version": "IR1",
+          "distance": 320,
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "Florent": {
+      "poste": "Link",
+      "yoyo": [
+        {
+          "id": "mvsmlko8",
+          "version": "IR1",
+          "distance": 1560,
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "GabrielB": {
+      "poste": "Middle"
+    },
+    "GaëtanI": {
+      "poste": "Middle",
+      "yoyo": [
+        {
+          "id": "mvsmok91",
+          "version": "IR1",
+          "distance": 840,
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "Louise": {
+      "poste": "Ailier"
+    },
+    "Lucas": {
+      "poste": "Ailier",
+      "yoyo": [
+        {
+          "id": "mvsmamjr",
+          "version": "IR1",
+          "distance": 1160,
+          "date": "2026-10-26"
+        }
+      ],
+      "passe": [
+        {
+          "id": "mvsm7eiz",
+          "date": "2026-10-26",
+          "r10": null,
+          "r15": 9,
+          "r20": 6
+        }
+      ]
+    },
+    "Noé": {
+      "poste": "Middle",
+      "yoyo": [
+        {
+          "id": "mvsncm46",
+          "version": "IR1",
+          "distance": 1800,
+          "date": "2026-10-26"
+        }
+      ],
+      "passe": [
+        {
+          "id": "mvsmytea",
+          "date": "2026-10-26",
+          "r10": null,
+          "r15": 13,
+          "r20": 10
+        }
+      ]
+    },
+    "Pierre": {
+      "poste": "Link"
+    },
+    "PierreT": {
+      "poste": "Link"
+    },
+    "Stéphane": {
+      "poste": "Ailier",
+      "yoyo": [
+        {
+          "id": "mvsmdyfh",
+          "version": "IR1",
+          "distance": 480,
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "Thomas": {
+      "poste": "Ailier"
+    },
+    "Yanis": {
+      "poste": "Link",
+      "yoyo": [
+        {
+          "id": "mvsmnd1h",
+          "version": "IR1",
+          "distance": 1160,
+          "date": "2026-10-26"
+        }
+      ],
+      "passe": [
+        {
+          "id": "mvsmnm9d",
+          "date": "2026-10-26",
+          "r10": null,
+          "r15": 17,
+          "r20": 17
+        }
+      ]
+    },
+    "Mathias": {
+      "poste": "Middle",
+      "yoyo": [
+        {
+          "id": "mvsnc0ix",
+          "version": "IR1",
+          "distance": 1240,
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "Robin": {
+      "poste": "Middle",
+      "yoyo": [
+        {
+          "id": "mvsnb3k9",
+          "version": "IR1",
+          "distance": 800,
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "GaëtanV": {
+      "poste": "Middle",
+      "yoyo": [
+        {
+          "id": "mvsnabgh",
+          "version": "IR1",
+          "distance": 1120,
+          "date": "2026-10-26"
+        }
+      ]
+    }
+  },
+  "custom": [
+    {
+      "name": "Mathias",
+      "sexe": "H"
+    },
+    {
+      "name": "Robin",
+      "sexe": "H"
+    },
+    {
+      "name": "GaëtanV",
+      "sexe": "H"
+    }
+  ],
+  "id": "export-2026-10-28-25e98500",
+  "updated_at": "2026-10-28T22:00:00.000Z"
+}
