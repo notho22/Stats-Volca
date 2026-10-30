@@ -1,6 +1,57 @@
 {
+  "meta": {
+    "titre": "Sprint Volca — Profils Force-Vitesse",
+    "date_export": "2026-10-30",
+    "nombre_joueurs": 27,
+    "note": "Export complet depuis l'application : données de sprint (statiques, embarquées dans la page) + poste, tests Yo-Yo/VMA et qualité de passe (saisis et stockés localement dans ce navigateur)."
+  },
   "joueurs": {
     "Adrien": {
+      "groupe": "Déficit Force",
+      "splits": [
+        1.517,
+        2.283,
+        3,
+        3.617,
+        4.283,
+        4.883
+      ],
+      "F0": 6.1156,
+      "V0": 8.9614,
+      "Pmax": 13.7011,
+      "FVslope": -0.6824,
+      "RFmax": 0.402,
+      "Drf": -0.0639,
+      "Vopt": 4.4807,
+      "MaxSpeed": 8.1712,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.517,
+        0.766,
+        0.717,
+        0.617,
+        0.666,
+        0.6
+      ],
+      "pct_diff": [
+        0.505,
+        0.936,
+        0.861,
+        1.079,
+        0.901
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale élevée (8.17 m/s, 29.4 km/h), au-dessus de la moyenne des hommes. \nProfil plutôt orienté vitesse : déficit relatif de force (F0=6.12 N/kg vs V0=8.96 m/s). \nQualité du sprint : orientation de la force peu efficace au démarrage (RFmax faible pour son groupe), bon maintien de l'efficacité technique à haute vitesse (Drf parmi les meilleurs de son groupe). Priorité : développement de la force horizontale (sprints résistés lourds/traîneau, musculation, pliométrie horizontale).",
+      "posture": "Bonne extension de la hanche en fin d'appui et belle remontée du genou de la jambe de rappel, buste cassé jusqu'au 20M, propulsion verticale un peu élevé, tête vers l'avant. Technique globalement solide en dessous de la hanche, gainage recommandé et contraction du buste au-delà de 10M pour atteindre plus rapidement la vitesse maximale, + d'attaque devant du pied et + d'utilisation des bras.",
+      "seg_speed": [
+        3.296,
+        6.527,
+        6.974,
+        8.104,
+        7.508,
+        8.333
+      ],
       "poste": "Link",
       "yoyo": [
         {
@@ -9,12 +60,105 @@
           "distance": 2160,
           "date": "2026-10-26"
         }
-      ]
+      ],
+      "passe": []
     },
     "Alex": {
-      "poste": "Link"
+      "groupe": "Equilibré",
+      "splits": [
+        1.383,
+        2.2,
+        2.9,
+        3.583,
+        4.267,
+        4.917
+      ],
+      "F0": 7.7215,
+      "V0": 7.8585,
+      "Pmax": 15.1699,
+      "FVslope": -0.9826,
+      "RFmax": 0.4294,
+      "Drf": -0.0924,
+      "Vopt": 3.9293,
+      "MaxSpeed": 7.5296,
+      "groupe2": "Equilibré",
+      "deltas": [
+        1.383,
+        0.817,
+        0.7,
+        0.683,
+        0.684,
+        0.65
+      ],
+      "pct_diff": [
+        0.591,
+        0.857,
+        0.976,
+        1.001,
+        0.95
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale en retrait (7.53 m/s, 27.1 km/h), en dessous de la moyenne des hommes. \nProfil équilibré (V0=7.86 m/s vs F0=7.72 N/kg).Qualité du sprint : perte technique marquée quand la vitesse augmente (Drf très négatif pour son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Buste peu incliné vers l'avant au début du sprint. À travailler : buste plus incliné pour améliorer l'accélération, amplitude et relâchement du bras pour mieux accompagner la foulée.",
+      "seg_speed": [
+        3.615,
+        6.12,
+        7.143,
+        7.321,
+        7.31,
+        7.692
+      ],
+      "poste": "Link",
+      "yoyo": [],
+      "passe": []
     },
     "Aloïs": {
+      "groupe": "Déficit Force",
+      "splits": [
+        1.35,
+        2.133,
+        2.783,
+        3.417,
+        4.017,
+        4.6
+      ],
+      "F0": 7.4664,
+      "V0": 9.02,
+      "Pmax": 16.8368,
+      "FVslope": -0.8278,
+      "RFmax": 0.4454,
+      "Drf": -0.0768,
+      "Vopt": 4.51,
+      "MaxSpeed": 8.4354,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.35,
+        0.783,
+        0.65,
+        0.634,
+        0.6,
+        0.583
+      ],
+      "pct_diff": [
+        0.58,
+        0.83,
+        0.975,
+        0.946,
+        0.972
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale élevée (8.44 m/s, 30.4 km/h), au-dessus de la moyenne des hommes.\nProfil plutôt orienté vitesse : déficit relatif de force (F0=7.47 N/kg vs V0=9.02 m/s).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe).\nPriorité : développement de la force horizontale (sprints résistés lourds/traîneau, musculation, pliométrie horizontale).",
+      "posture": "Bon piqué du genou et buste engagé vers l'avant, posture dynamique et équilibrée.",
+      "seg_speed": [
+        3.704,
+        6.386,
+        7.692,
+        7.886,
+        8.333,
+        8.576
+      ],
       "poste": "Middle",
       "yoyo": [
         {
@@ -35,12 +179,158 @@
       ]
     },
     "Ambre": {
-      "poste": "Ailier"
+      "groupe": "Déficit Vitesse",
+      "splits": [
+        1.533,
+        2.467,
+        3.367,
+        4.217,
+        5.117,
+        5.983
+      ],
+      "F0": 7.5483,
+      "V0": 5.8576,
+      "Pmax": 11.0538,
+      "FVslope": -1.2886,
+      "RFmax": 0.3699,
+      "Drf": -0.1246,
+      "Vopt": 2.9288,
+      "MaxSpeed": 5.7394,
+      "groupe2": "Déficit Vitesse",
+      "deltas": [
+        1.533,
+        0.934,
+        0.9,
+        0.85,
+        0.9,
+        0.866
+      ],
+      "pct_diff": [
+        0.609,
+        0.964,
+        0.944,
+        1.059,
+        0.962
+      ],
+      "phase": "Vitesse de pointe atteinte sur 15-20m, puis légère décélération jusqu'à 30 m (1.8% plus lent sur le dernier tronçon).",
+      "sexe": "F",
+      "commentaire": "Vitesse maximale en retrait (5.74 m/s, 20.7 km/h), en dessous de la moyenne des femmes.\nProfil plutôt orienté force : déficit relatif de vitesse (V0=5.86 m/s vs F0=7.55 N/kg).\nQualité du sprint : perte technique marquée quand la vitesse augmente (Drf très négatif pour son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Buste peu incliné vers l'avant au début du sprint, bonne extension de la jambe arrière, bras relativement compacts ; posture globalement correcte. À travailler : buste plus incliné pour améliorer l'accélération, attaque du pied trop talon",
+      "seg_speed": [
+        3.262,
+        5.353,
+        5.556,
+        5.882,
+        5.556,
+        5.774
+      ],
+      "poste": "Ailier",
+      "yoyo": [],
+      "passe": []
     },
     "Anaëlle": {
-      "poste": "Link"
+      "groupe": "Equilibré",
+      "splits": [
+        1.483,
+        2.367,
+        3.183,
+        3.951,
+        4.683,
+        5.483
+      ],
+      "F0": 7.1044,
+      "V0": 6.7981,
+      "Pmax": 12.0742,
+      "FVslope": -1.0451,
+      "RFmax": 0.3902,
+      "Drf": -0.0998,
+      "Vopt": 3.3991,
+      "MaxSpeed": 6.5663,
+      "groupe2": "Equilibré",
+      "deltas": [
+        1.483,
+        0.884,
+        0.816,
+        0.768,
+        0.732,
+        0.8
+      ],
+      "pct_diff": [
+        0.596,
+        0.923,
+        0.941,
+        0.953,
+        1.093
+      ],
+      "phase": "Vitesse de pointe atteinte sur 20-25m, puis légère décélération jusqu'à 30 m (8.5% plus lent sur le dernier tronçon).",
+      "sexe": "F",
+      "commentaire": "Vitesse maximale élevée (6.57 m/s, 23.6 km/h), au-dessus de la moyenne des femmes.\nProfil force-vitesse équilibré (F0=7.10 N/kg, V0=6.80 m/s).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe).\nPriorité : entretien du profil équilibré, optimisation technique et travail de Pmax en situation.",
+      "posture": "Buste peu incliné vers l'avant au début du sprint, levée de genoux faible, posture correcte. Attaquer plus l'avant du pied",
+      "seg_speed": [
+        3.372,
+        5.656,
+        6.127,
+        6.51,
+        6.831,
+        6.25
+      ],
+      "poste": "Link",
+      "yoyo": [
+        {
+          "id": "mvuumxal",
+          "version": "IR1",
+          "distance": 960,
+          "date": "2026-10-29"
+        }
+      ],
+      "passe": []
     },
     "Axelle": {
+      "groupe": "Déficit Force",
+      "splits": [
+        1.567,
+        2.4,
+        3.2,
+        3.883,
+        4.6,
+        5.317
+      ],
+      "F0": 6.0028,
+      "V0": 7.5959,
+      "Pmax": 11.3993,
+      "FVslope": -0.7903,
+      "RFmax": 0.3777,
+      "Drf": -0.0753,
+      "Vopt": 3.798,
+      "MaxSpeed": 7.1846,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.567,
+        0.833,
+        0.8,
+        0.683,
+        0.717,
+        0.717
+      ],
+      "pct_diff": [
+        0.532,
+        0.96,
+        0.854,
+        1.05,
+        1
+      ],
+      "phase": "Vitesse de pointe atteinte sur 15-20m, puis légère décélération jusqu'à 30 m (4.7% plus lent sur le dernier tronçon).",
+      "sexe": "F",
+      "commentaire": "Vitesse maximale élevée (7.18 m/s, 25.9 km/h), au-dessus de la moyenne des femmes.\nProfil plutôt orienté vitesse : déficit relatif de force (F0=6.00 N/kg vs V0=7.60 m/s).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe), bon maintien de l'efficacité technique à haute vitesse (Drf parmi les meilleurs de son groupe).\nPriorité : développement de la force horizontale (sprints résistés lourds/traîneau, musculation, pliométrie horizontale).",
+      "posture": "Les bras partent assez nettement sur le côté (balancier large plutôt qu'avant-arrière), ce qui peut faire perdre en efficacité ; buste et jambe arrière plutôt bien tenus. À travailler en priorité : resserrer l'action de bras dans l'axe et éviter le balancier du buste.",
+      "seg_speed": [
+        3.191,
+        6.002,
+        6.25,
+        7.321,
+        6.974,
+        6.974
+      ],
       "poste": "Link",
       "yoyo": [
         {
@@ -49,18 +339,212 @@
           "distance": 560,
           "date": "2026-10-26"
         }
-      ]
+      ],
+      "passe": []
     },
     "Baptiste": {
-      "poste": "Link"
+      "groupe": "Déficit Force",
+      "splits": [
+        1.483,
+        2.283,
+        2.95,
+        3.617,
+        4.233,
+        4.817
+      ],
+      "F0": 6.1263,
+      "V0": 9.1429,
+      "Pmax": 14.0032,
+      "FVslope": -0.6701,
+      "RFmax": 0.4049,
+      "Drf": -0.0627,
+      "Vopt": 4.5715,
+      "MaxSpeed": 8.3356,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.483,
+        0.8,
+        0.667,
+        0.667,
+        0.616,
+        0.584
+      ],
+      "pct_diff": [
+        0.539,
+        0.834,
+        1,
+        0.924,
+        0.948
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale élevée (8.34 m/s, 30.0 km/h), au-dessus de la moyenne des hommes.\nProfil plutôt orienté vitesse  : déficit relatif de force (F0=6.13 N/kg vs V0=9.14 m/s).\nQualité du sprint : orientation de la force peu efficace au démarrage (RFmax faible pour son groupe), bon maintien de l'efficacité technique à haute vitesse (Drf parmi les meilleurs de son groupe).\nPriorité : développement de la force horizontale (sprints résistés lourds/traîneau, musculation, pliométrie horizontale).",
+      "posture": "Buste vertical et action compacte, bonne posture de sprinteur à cette vitesse. S'incliner plus au démarrage.",
+      "seg_speed": [
+        3.372,
+        6.25,
+        7.496,
+        7.496,
+        8.117,
+        8.562
+      ],
+      "poste": "Link",
+      "yoyo": [
+        {
+          "id": "mvuuoj51",
+          "version": "IR1",
+          "distance": 1400,
+          "date": "2026-10-29"
+        }
+      ],
+      "passe": []
     },
     "Chloé": {
-      "poste": "Ailier"
+      "groupe": "Equilibré",
+      "splits": [
+        1.583,
+        2.5,
+        3.383,
+        4.217,
+        5.067,
+        5.867
+      ],
+      "F0": 6.5223,
+      "V0": 6.2365,
+      "Pmax": 10.1691,
+      "FVslope": -1.0458,
+      "RFmax": 0.3625,
+      "Drf": -0.1007,
+      "Vopt": 3.1183,
+      "MaxSpeed": 6.0339,
+      "groupe2": "Equilibré",
+      "deltas": [
+        1.583,
+        0.917,
+        0.883,
+        0.834,
+        0.85,
+        0.8
+      ],
+      "pct_diff": [
+        0.579,
+        0.963,
+        0.945,
+        1.019,
+        0.941
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "F",
+      "commentaire": "Vitesse maximale dans la moyenne des femmes (6.03 m/s, 21.7 km/h).\nProfil force-vitesse équilibré par rapport à son groupe (F0=6.52 N/kg, V0=6.24 m/s).\nQualité technique de sprint dans la moyenne du groupe (RFmax et Drf proches des valeurs de son groupe).\nPriorité : entretien du profil équilibré, optimisation technique et travail de Pmax en situation.",
+      "posture": "Buste légèrement incliné vers l'avant, foulée un peu trop milieu du pied, propulsion vertical élevée. À travailler : fréquense, extension de hanche",
+      "seg_speed": [
+        3.159,
+        5.453,
+        5.663,
+        5.995,
+        5.882,
+        6.25
+      ],
+      "poste": "Ailier",
+      "yoyo": [],
+      "passe": []
     },
     "Clara": {
-      "poste": "Ailier"
+      "groupe": "Equilibré",
+      "splits": [
+        1.633,
+        2.567,
+        3.45,
+        4.3,
+        5.167,
+        6
+      ],
+      "F0": 6.183,
+      "V0": 6.1284,
+      "Pmax": 9.4729,
+      "FVslope": -1.0089,
+      "RFmax": 0.3517,
+      "Drf": -0.0975,
+      "Vopt": 3.0642,
+      "MaxSpeed": 5.9271,
+      "groupe2": "Equilibré",
+      "deltas": [
+        1.633,
+        0.934,
+        0.883,
+        0.85,
+        0.867,
+        0.833
+      ],
+      "pct_diff": [
+        0.572,
+        0.945,
+        0.963,
+        1.02,
+        0.961
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "F",
+      "commentaire": "Vitesse maximale dans la moyenne des femmes (5.93 m/s, 21.3 km/h).\nProfil équilibré (F0=6.18 N/kg vs V0=6.13 m/s).\nQualité du sprint : orientation de la force peu efficace au démarrage (RFmax faible pour son groupe).\nPriorité : développement de la force horizontale (sprints résistés lourds/traîneau, musculation, pliométrie horizontale).",
+      "posture": "Bras hauts et assez écartés, ce qui suggère un relâchement du haut du corps à travailler. S'incliner plus au démarrage.",
+      "seg_speed": [
+        3.062,
+        5.353,
+        5.663,
+        5.882,
+        5.767,
+        6.002
+      ],
+      "poste": "Ailier",
+      "yoyo": [],
+      "passe": []
     },
     "Elsa": {
+      "groupe": "Déficit Vitesse",
+      "splits": [
+        1.767,
+        2.817,
+        3.85,
+        4.817,
+        5.883,
+        6.933
+      ],
+      "F0": 6.0589,
+      "V0": 5.0106,
+      "Pmax": 7.5897,
+      "FVslope": -1.2092,
+      "RFmax": 0.3158,
+      "Drf": -0.1186,
+      "Vopt": 2.5053,
+      "MaxSpeed": 4.9189,
+      "groupe2": "Déficit Vitesse",
+      "deltas": [
+        1.767,
+        1.05,
+        1.033,
+        0.967,
+        1.066,
+        1.05
+      ],
+      "pct_diff": [
+        0.594,
+        0.984,
+        0.936,
+        1.102,
+        0.985
+      ],
+      "phase": "Vitesse de pointe atteinte sur 15-20m, puis légère décélération jusqu'à 30 m (7.9% plus lent sur le dernier tronçon).",
+      "sexe": "F",
+      "commentaire": "Vitesse maximale en retrait (4.92 m/s, 17.7 km/h), en dessous de la moyenne des femmes.\nProfil plutôt orienté force : déficit relatif de vitesse (V0=5.01 m/s vs F0=6.06 N/kg).\nQualité du sprint : orientation de la force peu efficace au démarrage (RFmax faible pour son groupe), perte technique marquée quand la vitesse augmente (Drf très négatif pour son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Buste droit, bonne extension de la jambe arrière visible, posture correcte dans l'ensemble. Attaque du pied talon, ce qui n'aide pas la propulsion vers l'avant.",
+      "seg_speed": [
+        2.83,
+        4.762,
+        4.84,
+        5.171,
+        4.69,
+        4.762
+      ],
       "poste": "Ailier",
       "yoyo": [
         {
@@ -69,9 +553,55 @@
           "distance": 320,
           "date": "2026-10-26"
         }
-      ]
+      ],
+      "passe": []
     },
     "Florent": {
+      "groupe": "Déficit Force",
+      "splits": [
+        1.317,
+        2.05,
+        2.733,
+        3.35,
+        3.917,
+        4.483
+      ],
+      "F0": 7.8635,
+      "V0": 9.2293,
+      "Pmax": 18.1437,
+      "FVslope": -0.852,
+      "RFmax": 0.4595,
+      "Drf": -0.0785,
+      "Vopt": 4.6147,
+      "MaxSpeed": 8.6313,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.317,
+        0.733,
+        0.683,
+        0.617,
+        0.567,
+        0.566
+      ],
+      "pct_diff": [
+        0.557,
+        0.932,
+        0.903,
+        0.919,
+        0.998
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale élevée (8.63 m/s, 31.1 km/h), au-dessus de la moyenne des hommes.\nProfil plutôt orienté vitesse : déficit relatif de force (F0=7.86 N/kg vs V0=9.23 m/s).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe).\nPriorité : développement de la force horizontale (sprints résistés lourds/traîneau, musculation, pliométrie horizontale).",
+      "posture": "Buste plutôt vertical avec une bonne remontée de genou, posture dynamique et équilibrée.",
+      "seg_speed": [
+        3.797,
+        6.821,
+        7.321,
+        8.104,
+        8.818,
+        8.834
+      ],
       "poste": "Link",
       "yoyo": [
         {
@@ -80,12 +610,155 @@
           "distance": 1560,
           "date": "2026-10-26"
         }
-      ]
+      ],
+      "passe": []
+    },
+    "Gabriel2": {
+      "groupe": "Déficit Vitesse",
+      "splits": [
+        1.333,
+        2.083,
+        2.817,
+        3.483,
+        4.15,
+        4.8
+      ],
+      "F0": 8.7613,
+      "V0": 7.8483,
+      "Pmax": 17.1903,
+      "FVslope": -1.1163,
+      "RFmax": 0.45,
+      "Drf": -0.1043,
+      "Vopt": 3.9241,
+      "MaxSpeed": 7.5581,
+      "groupe2": "Déficit Vitesse",
+      "deltas": [
+        1.333,
+        0.75,
+        0.734,
+        0.666,
+        0.667,
+        0.65
+      ],
+      "pct_diff": [
+        0.563,
+        0.979,
+        0.907,
+        1.002,
+        0.975
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale en retrait (7.56 m/s, 27.2 km/h), en dessous de la moyenne des hommes.\nProfil plutôt orienté force  : déficit relatif de vitesse (V0=7.85 m/s vs F0=8.76 N/kg).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe), perte technique marquée quand la vitesse augmente (Drf très négatif pour son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Buste vertical et action compacte, bonne posture de sprinteur à cette vitesse.",
+      "seg_speed": [
+        3.751,
+        6.667,
+        6.812,
+        7.508,
+        7.496,
+        7.692
+      ],
+      "poste": null,
+      "yoyo": [],
+      "passe": []
     },
     "GabrielB": {
-      "poste": "Middle"
+      "groupe": "Déficit Vitesse",
+      "splits": [
+        1.367,
+        2.1,
+        2.85,
+        3.55,
+        4.233,
+        4.95
+      ],
+      "F0": 9.0199,
+      "V0": 7.4912,
+      "Pmax": 16.8925,
+      "FVslope": -1.2041,
+      "RFmax": 0.4444,
+      "Drf": -0.1126,
+      "Vopt": 3.7456,
+      "MaxSpeed": 7.2179,
+      "groupe2": "Déficit Vitesse",
+      "deltas": [
+        1.367,
+        0.733,
+        0.75,
+        0.7,
+        0.683,
+        0.717
+      ],
+      "pct_diff": [
+        0.536,
+        1.023,
+        0.933,
+        0.976,
+        1.05
+      ],
+      "phase": "Vitesse de pointe atteinte sur 20-25m, puis légère décélération jusqu'à 30 m (4.7% plus lent sur le dernier tronçon).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale en retrait (7.22 m/s, 26.0 km/h), en dessous de la moyenne des hommes.\nProfil plutôt orienté force : déficit relatif de vitesse (V0=7.49 m/s vs F0=9.02 N/kg).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe), perte technique marquée quand la vitesse augmente (Drf très négatif pour son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Bonne inclinaison du buste et belle extension de la jambe arrière, posture efficace. Attaque du pied un peu trop talon.",
+      "seg_speed": [
+        3.658,
+        6.821,
+        6.667,
+        7.143,
+        7.321,
+        6.974
+      ],
+      "poste": "Middle",
+      "yoyo": [],
+      "passe": []
     },
     "GaëtanI": {
+      "groupe": "Déficit Force",
+      "splits": [
+        1.633,
+        2.417,
+        3.217,
+        3.9,
+        4.583,
+        5.283
+      ],
+      "F0": 5.5376,
+      "V0": 8.0009,
+      "Pmax": 11.0764,
+      "FVslope": -0.6921,
+      "RFmax": 0.368,
+      "Drf": -0.0659,
+      "Vopt": 4.0004,
+      "MaxSpeed": 7.4469,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.633,
+        0.784,
+        0.8,
+        0.683,
+        0.683,
+        0.7
+      ],
+      "pct_diff": [
+        0.48,
+        1.02,
+        0.854,
+        1,
+        1.025
+      ],
+      "phase": "Vitesse de pointe atteinte sur 15-20m, puis légère décélération jusqu'à 30 m (2.4% plus lent sur le dernier tronçon).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale en retrait (7.45 m/s, 26.8 km/h), en dessous de la moyenne des hommes.\nProfil plutôt orienté vitesse : déficit relatif de force (F0=5.54 N/kg vs V0=8.00 m/s).\nQualité du sprint : orientation de la force peu efficace au démarrage (RFmax faible pour son groupe), bon maintien de l'efficacité technique à haute vitesse (Drf parmi les meilleurs de son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Buste assez droit, action de jambe correcte, pas d'anomalie flagrante. Lever le regard pour se grandir en fin d'accélération",
+      "seg_speed": [
+        3.062,
+        6.378,
+        6.25,
+        7.321,
+        7.321,
+        7.143
+      ],
       "poste": "Middle",
       "yoyo": [
         {
@@ -94,12 +767,105 @@
           "distance": 840,
           "date": "2026-10-26"
         }
-      ]
+      ],
+      "passe": []
     },
     "Louise": {
-      "poste": "Ailier"
+      "groupe": "Déficit Vitesse",
+      "splits": [
+        1.567,
+        2.417,
+        3.317,
+        4.067,
+        4.883,
+        5.767
+      ],
+      "F0": 7.0333,
+      "V0": 6.35,
+      "Pmax": 11.1654,
+      "FVslope": -1.1076,
+      "RFmax": 0.3766,
+      "Drf": -0.1064,
+      "Vopt": 3.175,
+      "MaxSpeed": 6.1608,
+      "groupe2": "Déficit Vitesse",
+      "deltas": [
+        1.567,
+        0.85,
+        0.9,
+        0.75,
+        0.816,
+        0.884
+      ],
+      "pct_diff": [
+        0.542,
+        1.059,
+        0.833,
+        1.088,
+        1.083
+      ],
+      "phase": "Vitesse de pointe atteinte sur 15-20m, puis légère décélération jusqu'à 30 m (15.2% plus lent sur le dernier tronçon).",
+      "sexe": "F",
+      "commentaire": "Vitesse maximale dans la moyenne des femmes (6.16 m/s, 22.2 km/h).\nProfil plutôt orienté force : déficit relatif de vitesse (V0=6.35 m/s vs F0=7.03 N/kg).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe).\nPriorité : développement de la vitesse maximale (sprints assistés/lancés, travail de fréquence gestuelle, relâchement).",
+      "posture": "Buste compact et droit, posture correcte. Pas d'utilisation des bras et du haut du corps",
+      "seg_speed": [
+        3.191,
+        5.882,
+        5.556,
+        6.667,
+        6.127,
+        5.656
+      ],
+      "poste": "Ailier",
+      "yoyo": [],
+      "passe": []
     },
     "Lucas": {
+      "groupe": "Déficit Force",
+      "splits": [
+        1.467,
+        2.233,
+        2.967,
+        3.6,
+        4.25,
+        4.85
+      ],
+      "F0": 6.5251,
+      "V0": 8.6791,
+      "Pmax": 14.158,
+      "FVslope": -0.7518,
+      "RFmax": 0.412,
+      "Drf": -0.0705,
+      "Vopt": 4.3395,
+      "MaxSpeed": 8.07,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.467,
+        0.766,
+        0.734,
+        0.633,
+        0.65,
+        0.6
+      ],
+      "pct_diff": [
+        0.522,
+        0.958,
+        0.862,
+        1.027,
+        0.923
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale dans la moyenne des hommes (8.07 m/s, 29.1 km/h).\nProfil plutôt orienté vitesse : déficit relatif de force (F0=6.53 N/kg vs V0=8.68 m/s).\nQualité du sprint : bon maintien de l'efficacité technique à haute vitesse (Drf parmi les meilleurs de son groupe).\nPriorité : développement de la force horizontale (sprints résistés lourds/traîneau, musculation, pliométrie horizontale).",
+      "posture": "Très bonne extension de la jambe arrière en fin de poussée, buste bien engagé ; Regarde un peu bas, cela casse la posture droite",
+      "seg_speed": [
+        3.408,
+        6.527,
+        6.812,
+        7.899,
+        7.692,
+        8.333
+      ],
       "poste": "Ailier",
       "yoyo": [
         {
@@ -120,6 +886,51 @@
       ]
     },
     "Noé": {
+      "groupe": "Déficit Force",
+      "splits": [
+        1.383,
+        2.15,
+        2.817,
+        3.467,
+        4.083,
+        4.7
+      ],
+      "F0": 7.5017,
+      "V0": 8.6276,
+      "Pmax": 16.1804,
+      "FVslope": -0.8695,
+      "RFmax": 0.4396,
+      "Drf": -0.0812,
+      "Vopt": 4.3138,
+      "MaxSpeed": 8.1622,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.383,
+        0.767,
+        0.667,
+        0.65,
+        0.616,
+        0.617
+      ],
+      "pct_diff": [
+        0.555,
+        0.87,
+        0.975,
+        0.948,
+        1.002
+      ],
+      "phase": "Vitesse de pointe atteinte sur 20-25m, puis légère décélération jusqu'à 30 m (0.2% plus lent sur le dernier tronçon).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale élevée (8.16 m/s, 29.4 km/h), au-dessus de la moyenne des hommes.\nProfil plutôt orienté vitesse : déficit relatif de force (F0=7.50 N/kg, V0=8.63 m/s).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe).\nPriorité : entretien du profil équilibré, optimisation technique et travail de Pmax en situation.",
+      "posture": "Buste droit, bonne amplitude de genou, posture de sprint efficace.",
+      "seg_speed": [
+        3.615,
+        6.519,
+        7.496,
+        7.692,
+        8.117,
+        8.104
+      ],
       "poste": "Middle",
       "yoyo": [
         {
@@ -140,12 +951,151 @@
       ]
     },
     "Pierre": {
-      "poste": "Link"
+      "groupe": "Déficit Force",
+      "splits": [
+        1.5,
+        2.3,
+        3.033,
+        3.7,
+        4.367,
+        4.967
+      ],
+      "F0": 6.1758,
+      "V0": 8.4769,
+      "Pmax": 13.088,
+      "FVslope": -0.7285,
+      "RFmax": 0.3975,
+      "Drf": -0.0687,
+      "Vopt": 4.2384,
+      "MaxSpeed": 7.8823,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.5,
+        0.8,
+        0.733,
+        0.667,
+        0.667,
+        0.6
+      ],
+      "pct_diff": [
+        0.533,
+        0.916,
+        0.91,
+        1,
+        0.9
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale dans la moyenne des hommes (7.88 m/s, 28.4 km/h).\nProfil plutôt orienté vitesse : déficit relatif de force (F0=6.18 N/kg vs V0=8.48 m/s).\nQualité du sprint : orientation de la force peu efficace au démarrage (RFmax faible pour son groupe), bon maintien de l'efficacité technique à haute vitesse (Drf parmi les meilleurs de son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Buste droit, bonne extension de la jambe arrière, posture correcte.",
+      "seg_speed": [
+        3.333,
+        6.25,
+        6.821,
+        7.496,
+        7.496,
+        8.333
+      ],
+      "poste": "Link",
+      "yoyo": [],
+      "passe": []
     },
     "PierreT": {
-      "poste": "Link"
+      "groupe": "Déficit Force",
+      "splits": [
+        1.483,
+        2.2,
+        2.983,
+        3.683,
+        4.3,
+        4.917
+      ],
+      "F0": 6.7011,
+      "V0": 8.2919,
+      "Pmax": 13.8913,
+      "FVslope": -0.8082,
+      "RFmax": 0.4112,
+      "Drf": -0.076,
+      "Vopt": 4.1459,
+      "MaxSpeed": 7.7968,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.483,
+        0.717,
+        0.783,
+        0.7,
+        0.617,
+        0.617
+      ],
+      "pct_diff": [
+        0.483,
+        1.092,
+        0.894,
+        0.881,
+        1
+      ],
+      "phase": "Vitesse de pointe atteinte sur 20-25m, puis légère décélération jusqu'à 30 m (0.0% plus lent sur le dernier tronçon).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale dans la moyenne des hommes (7.80 m/s, 28.1 km/h).\nProfil plutôt orienté vitesse : déficit relatif de force  (F0=6.70 N/kg, V0=8.29 m/s).\nQualité technique de sprint dans la moyenne du groupe (RFmax et Drf proches des valeurs de son groupe).\nPriorité : développement de la puissance maximale (Pmax), via un travail combiné force-vitesse.",
+      "posture": "Buste droit, bonne extension de la jambe arrière, posture correcte.",
+      "seg_speed": [
+        3.372,
+        6.974,
+        6.386,
+        7.143,
+        8.104,
+        8.104
+      ],
+      "poste": "Link",
+      "yoyo": [],
+      "passe": []
     },
     "Stéphane": {
+      "groupe": "Equilibré",
+      "splits": [
+        1.5,
+        2.383,
+        3.233,
+        3.95,
+        4.717,
+        5.483
+      ],
+      "F0": 6.7591,
+      "V0": 6.8883,
+      "Pmax": 11.6397,
+      "FVslope": -0.9812,
+      "RFmax": 0.3845,
+      "Drf": -0.0937,
+      "Vopt": 3.4441,
+      "MaxSpeed": 6.6264,
+      "groupe2": "Equilibré",
+      "deltas": [
+        1.5,
+        0.883,
+        0.85,
+        0.717,
+        0.767,
+        0.766
+      ],
+      "pct_diff": [
+        0.589,
+        0.963,
+        0.844,
+        1.07,
+        0.999
+      ],
+      "phase": "Vitesse de pointe atteinte sur 15-20m, puis légère décélération jusqu'à 30 m (6.4% plus lent sur le dernier tronçon).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale en retrait (6.63 m/s, 23.9 km/h), en dessous de la moyenne des hommes.\nProfil équilibré (V0=6.89 m/s vs F0=6.76 N/kg).\nQualité du sprint : orientation de la force peu efficace au démarrage (RFmax faible pour son groupe), perte technique marquée quand la vitesse augmente (Drf très négatif pour son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Buste droit, foulée ample, mouvement de bras et de jambes trop ample/fréquence trop faible.",
+      "seg_speed": [
+        3.333,
+        5.663,
+        5.882,
+        6.974,
+        6.519,
+        6.527
+      ],
       "poste": "Ailier",
       "yoyo": [
         {
@@ -154,12 +1104,112 @@
           "distance": 480,
           "date": "2026-10-26"
         }
-      ]
+      ],
+      "passe": []
     },
     "Thomas": {
-      "poste": "Ailier"
+      "groupe": "Déficit Force",
+      "splits": [
+        1.55,
+        2.35,
+        3.133,
+        3.833,
+        4.5,
+        5.133
+      ],
+      "F0": 5.8769,
+      "V0": 8.1131,
+      "Pmax": 11.92,
+      "FVslope": -0.7244,
+      "RFmax": 0.3819,
+      "Drf": -0.0688,
+      "Vopt": 4.0565,
+      "MaxSpeed": 7.5909,
+      "groupe2": "Déficit Force",
+      "deltas": [
+        1.55,
+        0.8,
+        0.783,
+        0.7,
+        0.667,
+        0.633
+      ],
+      "pct_diff": [
+        0.516,
+        0.979,
+        0.894,
+        0.953,
+        0.949
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale dans la moyenne des hommes (7.59 m/s, 27.3 km/h).\nProfil plutôt orienté vitesse : déficit relatif de force (F0=5.88 N/kg vs V0=8.11 m/s).\nQualité du sprint : orientation de la force peu efficace au démarrage (RFmax faible pour son groupe), bon maintien de l'efficacité technique à haute vitesse (Drf parmi les meilleurs de son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Inclinaison tête vers l'avant. À travailler : redressement du buste et du regard.",
+      "seg_speed": [
+        3.226,
+        6.25,
+        6.386,
+        7.143,
+        7.496,
+        7.899
+      ],
+      "poste": "Ailier",
+      "yoyo": [
+        {
+          "id": "mvuupjf3",
+          "version": "IR1",
+          "distance": 760,
+          "date": "2026-10-29"
+        }
+      ],
+      "passe": []
     },
     "Yanis": {
+      "groupe": "Equilibré",
+      "splits": [
+        1.317,
+        2.1,
+        2.767,
+        3.4,
+        4.067,
+        4.683
+      ],
+      "F0": 8.494,
+      "V0": 8.2574,
+      "Pmax": 17.5344,
+      "FVslope": -1.0287,
+      "RFmax": 0.4549,
+      "Drf": -0.0958,
+      "Vopt": 4.1287,
+      "MaxSpeed": 7.9146,
+      "groupe2": "Equilibré",
+      "deltas": [
+        1.317,
+        0.783,
+        0.667,
+        0.633,
+        0.667,
+        0.616
+      ],
+      "pct_diff": [
+        0.595,
+        0.852,
+        0.949,
+        1.054,
+        0.924
+      ],
+      "phase": "Toujours en accélération jusqu'à 30 m (vitesse de pointe sur 25-30m).",
+      "sexe": "H",
+      "commentaire": "Vitesse maximale dans la moyenne des hommes (7.91 m/s, 28.5 km/h).\nProfil équilibré (V0=8.26 m/s vs F0=8.49 N/kg).\nQualité du sprint : bonne orientation horizontale de la force au démarrage (RFmax élevé pour son groupe), perte technique marquée quand la vitesse augmente (Drf très négatif pour son groupe).\nPriorité : travail technique (orientation de la poussée horizontale, posture de course, gainage) avant tout travail de charge.",
+      "posture": "Buste droit, bonne extension de jambe arrière, posture propre et équilibrée. Belle attaque avant du pied",
+      "seg_speed": [
+        3.797,
+        6.386,
+        7.496,
+        7.899,
+        7.496,
+        8.117
+      ],
       "poste": "Link",
       "yoyo": [
         {
@@ -180,6 +1230,28 @@
       ]
     },
     "Mathias": {
+      "custom": true,
+      "sexe": "H",
+      "groupe": "Sans test sprint",
+      "splits": [],
+      "seg_speed": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "F0": null,
+      "V0": null,
+      "Pmax": null,
+      "FVslope": null,
+      "RFmax": null,
+      "Drf": null,
+      "Vopt": null,
+      "MaxSpeed": null,
+      "commentaire": "",
+      "posture": "",
       "poste": "Middle",
       "yoyo": [
         {
@@ -188,9 +1260,32 @@
           "distance": 1240,
           "date": "2026-10-26"
         }
-      ]
+      ],
+      "passe": []
     },
     "Robin": {
+      "custom": true,
+      "sexe": "H",
+      "groupe": "Sans test sprint",
+      "splits": [],
+      "seg_speed": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "F0": null,
+      "V0": null,
+      "Pmax": null,
+      "FVslope": null,
+      "RFmax": null,
+      "Drf": null,
+      "Vopt": null,
+      "MaxSpeed": null,
+      "commentaire": "",
+      "posture": "",
       "poste": "Middle",
       "yoyo": [
         {
@@ -199,9 +1294,32 @@
           "distance": 800,
           "date": "2026-10-26"
         }
-      ]
+      ],
+      "passe": []
     },
     "GaëtanV": {
+      "custom": true,
+      "sexe": "H",
+      "groupe": "Sans test sprint",
+      "splits": [],
+      "seg_speed": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "F0": null,
+      "V0": null,
+      "Pmax": null,
+      "FVslope": null,
+      "RFmax": null,
+      "Drf": null,
+      "Vopt": null,
+      "MaxSpeed": null,
+      "commentaire": "",
+      "posture": "",
       "poste": "Middle",
       "yoyo": [
         {
@@ -209,24 +1327,146 @@
           "version": "IR1",
           "distance": 1120,
           "date": "2026-10-26"
+        },
+        {
+          "id": "mvuuqdib",
+          "version": "IR1",
+          "distance": 1440,
+          "date": "2026-10-29"
         }
-      ]
+      ],
+      "passe": []
+    },
+    "Nils": {
+      "custom": true,
+      "sexe": "H",
+      "groupe": "Sans test sprint",
+      "splits": [],
+      "seg_speed": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "F0": null,
+      "V0": null,
+      "Pmax": null,
+      "FVslope": null,
+      "RFmax": null,
+      "Drf": null,
+      "Vopt": null,
+      "MaxSpeed": null,
+      "commentaire": "",
+      "posture": "",
+      "poste": "Link",
+      "yoyo": [
+        {
+          "id": "mvuup4uq",
+          "version": "IR1",
+          "distance": 1080,
+          "date": "2026-10-29"
+        }
+      ],
+      "passe": []
+    },
+    "Julien": {
+      "custom": true,
+      "sexe": "H",
+      "groupe": "Sans test sprint",
+      "splits": [],
+      "seg_speed": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "F0": null,
+      "V0": null,
+      "Pmax": null,
+      "FVslope": null,
+      "RFmax": null,
+      "Drf": null,
+      "Vopt": null,
+      "MaxSpeed": null,
+      "commentaire": "",
+      "posture": "",
+      "poste": null,
+      "yoyo": [
+        {
+          "id": "mvuuq2ic",
+          "version": "IR1",
+          "distance": 800,
+          "date": "2026-10-29"
+        }
+      ],
+      "passe": []
     }
   },
-  "custom": [
-    {
-      "name": "Mathias",
-      "sexe": "H"
-    },
-    {
-      "name": "Robin",
-      "sexe": "H"
-    },
-    {
-      "name": "GaëtanV",
-      "sexe": "H"
-    }
+  "ordre_joueurs": [
+    "Adrien",
+    "Alex",
+    "Aloïs",
+    "Ambre",
+    "Anaëlle",
+    "Axelle",
+    "Baptiste",
+    "Chloé",
+    "Clara",
+    "Elsa",
+    "Florent",
+    "Gabriel2",
+    "GabrielB",
+    "GaëtanI",
+    "Louise",
+    "Lucas",
+    "Noé",
+    "Pierre",
+    "PierreT",
+    "Stéphane",
+    "Thomas",
+    "Yanis",
+    "Mathias",
+    "Robin",
+    "GaëtanV",
+    "Nils",
+    "Julien"
   ],
-  "id": "export-2026-10-28-25e98500",
-  "updated_at": "2026-10-28T22:00:00.000Z"
+  "lexique_mesures": [
+    {
+      "mesure": "F0 (N/kg)",
+      "explication": "Force horizontale maximale théorique au départ (à vitesse nulle), rapportée au poids de corps. Reflète la capacité de force pure du coureur."
+    },
+    {
+      "mesure": "V0 (m/s)",
+      "explication": "Vitesse maximale théorique que le coureur atteindrait si la force horizontale était nulle. Reflète la capacité de vitesse pure (qualités neuromusculaires à haute vitesse, fréquence gestuelle)."
+    },
+    {
+      "mesure": "Pmax (W/kg)",
+      "explication": "Puissance mécanique horizontale maximale développée pendant l'accélération, rapportée au poids (Pmax = F0 x V0 / 4). Combine force et vitesse en une seule valeur de puissance."
+    },
+    {
+      "mesure": "FV Slope",
+      "explication": "Pente du profil Force-Vitesse (= -F0/V0). Indique l'orientation du profil pour une Pmax donnée : plus la pente est raide (très négative), plus le profil est orienté force ; plus elle est plate, plus il est orienté vitesse."
+    },
+    {
+      "mesure": "RF max (%)",
+      "explication": "Ratio de Force maximal : part de la force totale appliquée au sol qui est orientée horizontalement (donc utile à la propulsion), mesurée tout début de la poussée (vitesse quasi nulle). Reflète l'efficacité technique de l'application de force au départ."
+    },
+    {
+      "mesure": "Drf (%)",
+      "explication": "Pente de la diminution du ratio de force (RF) quand la vitesse augmente. Un Drf proche de 0 = le coureur garde une bonne orientation horizontale de sa force même en accélérant (bonne technique) ; un Drf très négatif = perte rapide d'efficacité technique avec la vitesse (voir détail donné précédemment)."
+    },
+    {
+      "mesure": "Vopt (m/s)",
+      "explication": "Vitesse à laquelle la puissance appliquée au sol est théoriquement maximale : repère de la vitesse où le compromis force/vitesse est mécaniquement le plus efficace."
+    },
+    {
+      "mesure": "Max Speed (m/s)",
+      "explication": "Vitesse maximale instantanée réellement atteinte pendant le sprint (vitesse de pointe mesurée sur la portion la plus rapide du test)."
+    }
+  ]
 }
